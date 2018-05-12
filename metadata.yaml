@@ -1,0 +1,37 @@
+_repo: Dan-Carter-and-the-Great-Carved-Face_40722
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40722-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wirt, Mildred A. (Mildred Augustine)
+    aliases:
+    - Benson, Millie
+    - Wirt, Ann
+    - Wirt, Mildred Augustine
+    - Benson, Mildred Wirt
+    - Augustine, Mildred
+    birthdate: 1905
+    deathdate: 2002
+    gutenberg_agent_id: '37000'
+    url: http://www.gutenberg.org/2009/agents/37000
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Mildred_Benson
+    - http://www.gutenberg.org/browse/authors/c#a36376
+description: ''
+gutenberg_issued: '2012-09-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40722'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Caves -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Cub Scouts -- Juvenile fiction'
+- !lcsh 'Mystery and detective stories'
+title: Dan Carter and the Great Carved Face
+url: http://www.gutenberg.org/ebooks/40722
